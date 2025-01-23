@@ -31,10 +31,11 @@
 <!-- Portfolio -->
 ## Portfolio:
 - [E-commerce - Node.js+Firebase 🔥](https://github.com/breno93/ecommerce-firebase)
+- [SmartFitChallenge - Angular ](https://desafio-smart-angular.vercel.app/)
+- [Nukenzie on Vercel](https://controle-financeiro-theta-nine.vercel.app/)
+- [Hamburgueria - Js+React+Typescript](https://github.com/breno93/Hamburgueria-Shop)
 - [WebAPI Catalogo - C#](https://github.com/breno93/WebAPICatalogoCSharp)
 - [Bandkamp - Python](https://github.com/breno93/m5-bandkamp-generic-view_Breno93)
-- [Hamburgueria - Js+React+Typescript](https://github.com/breno93/Hamburgueria-Shop)
-- [Nukenzie on Vercel](https://controle-financeiro-theta-nine.vercel.app/)
 
 <!-- GIF -->
 <p align="left">
