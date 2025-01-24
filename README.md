@@ -31,7 +31,7 @@
 <!-- Portfolio -->
 ## Portfolio:
 - [E-commerce - Node.js+Firebase 🔥](https://github.com/breno93/ecommerce-firebase)
-- [SmartFitChallenge - Angular ](https://desafio-smart-angular.vercel.app/)
+- [SmartFitChallenge - Angular on Vercel ](https://desafio-smart-angular.vercel.app/)
 - [Nukenzie on Vercel](https://controle-financeiro-theta-nine.vercel.app/)
 - [Hamburgueria - Js+React+Typescript](https://github.com/breno93/Hamburgueria-Shop)
 - [WebAPI Catalogo - C#](https://github.com/breno93/WebAPICatalogoCSharp)
